@@ -1,0 +1,14 @@
+{
+    "version": "1.8.2",
+    "compilerOptions": {
+        "declaration": false,
+        "target": "ES5",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "module": "commonjs",
+        "removeComments": true
+    },
+    "exclude": [
+        "typings"
+    ]
+}
